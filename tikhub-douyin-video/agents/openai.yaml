@@ -1,0 +1,4 @@
+interface:
+  display_name: "TikHub Douyin Video"
+  short_description: "Parse Douyin share links into video JSON"
+  default_prompt: "Use $tikhub-douyin-video to take a Douyin share link and return the related video data."
