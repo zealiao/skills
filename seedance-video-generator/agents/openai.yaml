@@ -1,0 +1,4 @@
+interface:
+  display_name: "Seedance Video Generator"
+  short_description: "Create and manage Seedance 2.0 video generation tasks"
+  default_prompt: "Use $seedance-video-generator to create, query, list, or cancel/delete a Seedance 2.0 video generation task with text prompts and optional reference image, video, or audio URLs."
